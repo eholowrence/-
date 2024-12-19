@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="keywords" content="олег, тупой, долбоеб">
+        <meta name="discription" content="я хочу умереть">
+        <title>Залупа</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>На этом сайте Олег расскажет о том, какой он дегенерат</h1>
+            <img src="imges/photo-1.jpg" width="400" height="180" class="main-img">
+        </header>
+        <main>
+            <nav>
+                <p class="index-p">Почему же Даша бросила Олега и ушла к какому-то хую?<br>Давайте разбираться!</p>
+                    <dl>
+                        <dd><a href="part-1.html">1.Алкоголизм</a></dd>
+                        <dd><a href="part-2.html">2.Похуизм</a></dd>
+                        <dd><a href="part-3.html">3.Долбоебизм</a></dd>
+                        <dd><a href="part-4.html">4.Итоги</a></dd>
+                    </dl>
+            </nav>
+            <section>
+            </section>
+            <section></section>
+            <footer"></footer>
+            <script src="script.js"></script>
+        </main>
+    </body>
+</html>
