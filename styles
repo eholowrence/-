@@ -1,0 +1,41 @@
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    background-color: black;
+    color: white;
+    border: 50px;
+    border-radius: 20px;
+    margin: 20px 180px;
+    text-align: center;
+}
+
+body {
+    font-family: serif;
+    font-size: 16px;
+}
+
+.index-p {
+    text-align: center;
+}
+
+dd {
+    text-align: center;
+    border: 20px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 10px 420px;
+}
+
+header {
+    background: url(images/photo-1.jpg);
+}
+
+img {
+    margin: 20px 290px;
+}
+
+a {
+    color: white;
+}
+
